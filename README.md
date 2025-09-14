@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I’m <b>Clay</b></h2>
 
 <p align="center">
-🌱 Passionate about <b>Frontend Development</b> & <b>Data Analysis</b> <br>
+🌱 Passionate about <b>Software Development</b> & <b>Data Analysis</b> <br>
 ✨ Curious mind, eager learner, and aspiring developer
 </p>
 
