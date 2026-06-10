@@ -38,5 +38,5 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-nine-steel-75.vercel.app/api?username=clay-egg&show_icons=true&theme=tokyonight" alt="Clay's GitHub Stats"/>
+<img src="https://github-readme-stats-nine-steel-75.vercel.app/api?username=clay-egg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2026" alt="Clay's GitHub Stats"/>
 </p>
