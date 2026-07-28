@@ -47,30 +47,13 @@ I'm a Software Engineering graduate passionate about building modern, scalable, 
 
 ## GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats-nine-steel-75.vercel.app/api?username=clay-egg&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats-nine-steel-75.vercel.app/api/top-langs/?username=clay-egg&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- <p align="center">
+<p align="center">
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=clay-egg&theme=gruvbox&hide_border=true"
-    alt="Contribution Graph"
+    width="900"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clay-egg&theme=gruvbox"
+    alt="Profile Details"
   />
-</p> -->
+</p>
 
 ## Connect With Me
 
